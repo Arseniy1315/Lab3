@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\laba8\laba8\bin\Debug\laba8.exe.config
+C:\Users\User\source\repos\laba8\laba8\bin\Debug\laba8.exe
+C:\Users\User\source\repos\laba8\laba8\bin\Debug\laba8.pdb
+C:\Users\User\source\repos\laba8\laba8\obj\Debug\laba8.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\laba8\laba8\obj\Debug\laba8.Form1.resources
+C:\Users\User\source\repos\laba8\laba8\obj\Debug\laba8.Properties.Resources.resources
+C:\Users\User\source\repos\laba8\laba8\obj\Debug\laba8.csproj.GenerateResource.cache
+C:\Users\User\source\repos\laba8\laba8\obj\Debug\laba8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\laba8\laba8\obj\Debug\laba8.exe
+C:\Users\User\source\repos\laba8\laba8\obj\Debug\laba8.pdb
